@@ -7,4 +7,4 @@ This is empty on purpose! Your code to build the resume will go here.
  console.log(firstName);
 
  var  awesomeThoughts = "I am Alex and I am AWESOME!";
- console.log(awesomeThoughts);
+ console.log(awesomeThoughts); 
