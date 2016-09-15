@@ -6,8 +6,13 @@ This is empty on purpose! Your code to build the resume will go here.
 // var  age = 32;
 // console.log(firstName);
 
- var  awesomeThoughts = "I am Alex and I am AWESOME!";
+/* var  awesomeThoughts = "I am Alex and I am AWESOME!";
  console.log(awesomeThoughts); 
 
  var  funThoughts = awesomeThoughts.replace("AWESOME", "FUN");
  $('#main').append(funThoughts);
+  */
+ var  name = "Alex Vol"
+ var  formattedName = HTMLheaderName.replace("%data%", name);
+
+ $("#header").append(formattedName);
